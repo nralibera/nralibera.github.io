@@ -1,16 +1,13 @@
 {
   "files": {
     "main.css": "/nralibera.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/nralibera.github.io/static/js/main.5bc66941.js",
-    "static/js/787.9b443e25.chunk.js": "/nralibera.github.io/static/js/787.9b443e25.chunk.js",
-    "static/media/logo.svg": "/nralibera.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/nralibera.github.io/static/js/main.bf643cf1.js",
     "index.html": "/nralibera.github.io/index.html",
     "main.073c9b0a.css.map": "/nralibera.github.io/static/css/main.073c9b0a.css.map",
-    "main.5bc66941.js.map": "/nralibera.github.io/static/js/main.5bc66941.js.map",
-    "787.9b443e25.chunk.js.map": "/nralibera.github.io/static/js/787.9b443e25.chunk.js.map"
+    "main.bf643cf1.js.map": "/nralibera.github.io/static/js/main.bf643cf1.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5bc66941.js"
+    "static/js/main.bf643cf1.js"
   ]
 }
