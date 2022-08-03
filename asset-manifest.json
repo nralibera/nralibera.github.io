@@ -1,14 +1,16 @@
 {
-  "main.css": "/nralibera.github.io/static/css/main.ec86e818.chunk.css",
-  "main.js": "/nralibera.github.io/static/js/main.d60d3a5b.chunk.js",
-  "main.js.map": "/nralibera.github.io/static/js/main.d60d3a5b.chunk.js.map",
-  "static/js/1.53b71929.chunk.js": "/nralibera.github.io/static/js/1.53b71929.chunk.js",
-  "static/js/1.53b71929.chunk.js.map": "/nralibera.github.io/static/js/1.53b71929.chunk.js.map",
-  "runtime~main.js": "/nralibera.github.io/static/js/runtime~main.8464ac78.js",
-  "runtime~main.js.map": "/nralibera.github.io/static/js/runtime~main.8464ac78.js.map",
-  "static/media/index.css": "/nralibera.github.io/static/media/background.be3327f6.jpg",
-  "static/css/main.ec86e818.chunk.css.map": "/nralibera.github.io/static/css/main.ec86e818.chunk.css.map",
-  "index.html": "/nralibera.github.io/index.html",
-  "precache-manifest.dbc4edca41af6164c506098c9027c562.js": "/nralibera.github.io/precache-manifest.dbc4edca41af6164c506098c9027c562.js",
-  "service-worker.js": "/nralibera.github.io/service-worker.js"
+  "files": {
+    "main.css": "/nralibera.github.io/static/css/main.81856cc3.css",
+    "main.js": "/nralibera.github.io/static/js/main.cd0532f9.js",
+    "static/media/background.jpg": "/nralibera.github.io/static/media/background.cb99fec69785c3bb015b.jpg",
+    "static/media/coolvetica-regular.otf": "/nralibera.github.io/static/media/coolvetica-regular.3d81d0e1fdbd5f69b232.otf",
+    "static/media/Kaoly.ttf": "/nralibera.github.io/static/media/Kaoly.f40c67fa45669e0de39d.ttf",
+    "index.html": "/nralibera.github.io/index.html",
+    "main.81856cc3.css.map": "/nralibera.github.io/static/css/main.81856cc3.css.map",
+    "main.cd0532f9.js.map": "/nralibera.github.io/static/js/main.cd0532f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81856cc3.css",
+    "static/js/main.cd0532f9.js"
+  ]
 }
