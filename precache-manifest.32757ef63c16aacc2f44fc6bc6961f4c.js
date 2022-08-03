@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9cf461f0b6e10f381182",
+    "revision": "150a9818dfa32f6a1a30",
     "url": "/nralibera.github.io/static/css/main.ec86e818.chunk.css"
   },
   {
-    "revision": "9cf461f0b6e10f381182",
-    "url": "/nralibera.github.io/static/js/main.9cf461f0.chunk.js"
+    "revision": "150a9818dfa32f6a1a30",
+    "url": "/nralibera.github.io/static/js/main.150a9818.chunk.js"
   },
   {
     "revision": "53b719291e7ced1ca5c6",
@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/nralibera.github.io/static/js/runtime~main.8464ac78.js"
   },
   {
-    "revision": "651b51cc4409a3926f85aa25861852ce",
-    "url": "/nralibera.github.io/static/media/coolvetica-regular.651b51cc.otf"
-  },
-  {
     "revision": "f69aacca4da1d0e50d9389bf2f77aeba",
     "url": "/nralibera.github.io/static/media/Kaoly.f69aacca.ttf"
+  },
+  {
+    "revision": "651b51cc4409a3926f85aa25861852ce",
+    "url": "/nralibera.github.io/static/media/coolvetica-regular.651b51cc.otf"
   },
   {
     "revision": "be3327f6fc0bc436e2bed1b6f6835190",
     "url": "/nralibera.github.io/static/media/background.be3327f6.jpg"
   },
   {
-    "revision": "4abf30c3a2f228bef17ce6a85da80c1a",
+    "revision": "ba976be848db94ada643f3290be96cf3",
     "url": "/nralibera.github.io/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nralibera.github.io/precache-manifest.cdbf610adb5d132c2785fbfc234aca45.js"
+  "/nralibera.github.io/precache-manifest.32757ef63c16aacc2f44fc6bc6961f4c.js"
 );
 
 workbox.clientsClaim();
