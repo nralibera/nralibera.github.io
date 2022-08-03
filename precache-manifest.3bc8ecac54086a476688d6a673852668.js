@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/nralibera.github.io/static/js/runtime~main.8464ac78.js"
   },
   {
-    "revision": "f69aacca4da1d0e50d9389bf2f77aeba",
-    "url": "/nralibera.github.io/static/media/Kaoly.f69aacca.ttf"
-  },
-  {
     "revision": "651b51cc4409a3926f85aa25861852ce",
     "url": "/nralibera.github.io/static/media/coolvetica-regular.651b51cc.otf"
+  },
+  {
+    "revision": "f69aacca4da1d0e50d9389bf2f77aeba",
+    "url": "/nralibera.github.io/static/media/Kaoly.f69aacca.ttf"
   },
   {
     "revision": "be3327f6fc0bc436e2bed1b6f6835190",
