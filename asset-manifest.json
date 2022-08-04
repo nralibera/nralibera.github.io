@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nralibera.github.io/static/css/main.81856cc3.css",
-    "main.js": "/nralibera.github.io/static/js/main.b2264c26.js",
+    "main.js": "/nralibera.github.io/static/js/main.82304732.js",
     "static/media/background.jpg": "/nralibera.github.io/static/media/background.cb99fec69785c3bb015b.jpg",
     "static/media/coolvetica-regular.otf": "/nralibera.github.io/static/media/coolvetica-regular.3d81d0e1fdbd5f69b232.otf",
     "static/media/Kaoly.ttf": "/nralibera.github.io/static/media/Kaoly.f40c67fa45669e0de39d.ttf",
     "index.html": "/nralibera.github.io/index.html",
     "main.81856cc3.css.map": "/nralibera.github.io/static/css/main.81856cc3.css.map",
-    "main.b2264c26.js.map": "/nralibera.github.io/static/js/main.b2264c26.js.map"
+    "main.82304732.js.map": "/nralibera.github.io/static/js/main.82304732.js.map"
   },
   "entrypoints": [
     "static/css/main.81856cc3.css",
-    "static/js/main.b2264c26.js"
+    "static/js/main.82304732.js"
   ]
 }
