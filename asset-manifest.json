@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9955bbd3.css",
+    "main.css": "/static/css/main.5e45d27b.css",
     "main.js": "/static/js/main.5e798455.js",
     "static/media/background.jpg": "/static/media/background.d7aaf4a4efa25fffeb98.jpg",
     "static/media/coolvetica-condensed.otf": "/static/media/coolvetica-condensed.5363e58a07461bacfd1a.otf",
@@ -10,11 +10,11 @@
     "static/media/me.jpg": "/static/media/me.4e05aac23c67bcf7c2b7.jpg",
     "static/media/pandas_logo.png": "/static/media/pandas_logo.f0e05c189be6e09bc566.png",
     "index.html": "/index.html",
-    "main.9955bbd3.css.map": "/static/css/main.9955bbd3.css.map",
+    "main.5e45d27b.css.map": "/static/css/main.5e45d27b.css.map",
     "main.5e798455.js.map": "/static/js/main.5e798455.js.map"
   },
   "entrypoints": [
-    "static/css/main.9955bbd3.css",
+    "static/css/main.5e45d27b.css",
     "static/js/main.5e798455.js"
   ]
 }
