@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5208b8ee.css",
-    "main.js": "/static/js/main.43c80c84.js",
+    "main.css": "/static/css/main.ef10b6fe.css",
+    "main.js": "/static/js/main.a382880f.js",
     "static/media/cat.jpg": "/static/media/cat.bddf12feb195f037e805.jpg",
     "static/media/monkey.jpg": "/static/media/monkey.49e16d884e385fd58a27.jpg",
     "static/media/background.jpg": "/static/media/background.d7aaf4a4efa25fffeb98.jpg",
@@ -12,11 +12,11 @@
     "static/media/me.jpg": "/static/media/me.4e05aac23c67bcf7c2b7.jpg",
     "static/media/pandas_logo.png": "/static/media/pandas_logo.f0e05c189be6e09bc566.png",
     "index.html": "/index.html",
-    "main.5208b8ee.css.map": "/static/css/main.5208b8ee.css.map",
-    "main.43c80c84.js.map": "/static/js/main.43c80c84.js.map"
+    "main.ef10b6fe.css.map": "/static/css/main.ef10b6fe.css.map",
+    "main.a382880f.js.map": "/static/js/main.a382880f.js.map"
   },
   "entrypoints": [
-    "static/css/main.5208b8ee.css",
-    "static/js/main.43c80c84.js"
+    "static/css/main.ef10b6fe.css",
+    "static/js/main.a382880f.js"
   ]
 }
