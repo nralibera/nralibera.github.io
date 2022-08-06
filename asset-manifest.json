@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b993ecc4.css",
-    "main.js": "/static/js/main.8dafa5bb.js",
+    "main.css": "/static/css/main.b97862eb.css",
+    "main.js": "/static/js/main.5c8785b6.js",
     "static/media/cat.jpg": "/static/media/cat.bddf12feb195f037e805.jpg",
     "static/media/monkey.jpg": "/static/media/monkey.49e16d884e385fd58a27.jpg",
     "static/media/background.jpg": "/static/media/background.0207c97fd6728c16bffd.jpg",
@@ -14,11 +14,11 @@
     "static/media/CV_august_2022_ralibera.pdf": "/static/media/CV_august_2022_ralibera.67e27def751ab93ec8a9.pdf",
     "static/media/pandas_logo.png": "/static/media/pandas_logo.f0e05c189be6e09bc566.png",
     "index.html": "/index.html",
-    "main.b993ecc4.css.map": "/static/css/main.b993ecc4.css.map",
-    "main.8dafa5bb.js.map": "/static/js/main.8dafa5bb.js.map"
+    "main.b97862eb.css.map": "/static/css/main.b97862eb.css.map",
+    "main.5c8785b6.js.map": "/static/js/main.5c8785b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.b993ecc4.css",
-    "static/js/main.8dafa5bb.js"
+    "static/css/main.b97862eb.css",
+    "static/js/main.5c8785b6.js"
   ]
 }
