@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1fb2dd02.css",
-    "main.js": "/static/js/main.dbc7755f.js",
+    "main.css": "/static/css/main.b993ecc4.css",
+    "main.js": "/static/js/main.8dafa5bb.js",
     "static/media/cat.jpg": "/static/media/cat.bddf12feb195f037e805.jpg",
     "static/media/monkey.jpg": "/static/media/monkey.49e16d884e385fd58a27.jpg",
     "static/media/background.jpg": "/static/media/background.0207c97fd6728c16bffd.jpg",
@@ -11,13 +11,14 @@
     "static/media/Kaoly.ttf": "/static/media/Kaoly.f40c67fa45669e0de39d.ttf",
     "static/media/matplotlib_logo.png": "/static/media/matplotlib_logo.4535ae00a38134b505b8.png",
     "static/media/me.jpg": "/static/media/me.4e05aac23c67bcf7c2b7.jpg",
+    "static/media/CV_august_2022_ralibera.pdf": "/static/media/CV_august_2022_ralibera.67e27def751ab93ec8a9.pdf",
     "static/media/pandas_logo.png": "/static/media/pandas_logo.f0e05c189be6e09bc566.png",
     "index.html": "/index.html",
-    "main.1fb2dd02.css.map": "/static/css/main.1fb2dd02.css.map",
-    "main.dbc7755f.js.map": "/static/js/main.dbc7755f.js.map"
+    "main.b993ecc4.css.map": "/static/css/main.b993ecc4.css.map",
+    "main.8dafa5bb.js.map": "/static/js/main.8dafa5bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fb2dd02.css",
-    "static/js/main.dbc7755f.js"
+    "static/css/main.b993ecc4.css",
+    "static/js/main.8dafa5bb.js"
   ]
 }
