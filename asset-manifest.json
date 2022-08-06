@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.46bb851c.css",
-    "main.js": "/static/js/main.b2899df8.js",
+    "main.css": "/static/css/main.1fd400d9.css",
+    "main.js": "/static/js/main.f448ce4c.js",
     "static/media/cat.jpg": "/static/media/cat.bddf12feb195f037e805.jpg",
     "static/media/monkey.jpg": "/static/media/monkey.49e16d884e385fd58a27.jpg",
     "static/media/background.jpg": "/static/media/background.0207c97fd6728c16bffd.jpg",
     "static/media/coolvetica-condensed.otf": "/static/media/coolvetica-condensed.5363e58a07461bacfd1a.otf",
+    "static/media/coolvetica-italic.otf": "/static/media/coolvetica-italic.733776c8d6437461f923.otf",
     "static/media/coolvetica-regular.otf": "/static/media/coolvetica-regular.3d81d0e1fdbd5f69b232.otf",
     "static/media/Kaoly.ttf": "/static/media/Kaoly.f40c67fa45669e0de39d.ttf",
     "static/media/matplotlib_logo.png": "/static/media/matplotlib_logo.4535ae00a38134b505b8.png",
     "static/media/me.jpg": "/static/media/me.4e05aac23c67bcf7c2b7.jpg",
     "static/media/pandas_logo.png": "/static/media/pandas_logo.f0e05c189be6e09bc566.png",
     "index.html": "/index.html",
-    "main.46bb851c.css.map": "/static/css/main.46bb851c.css.map",
-    "main.b2899df8.js.map": "/static/js/main.b2899df8.js.map"
+    "main.1fd400d9.css.map": "/static/css/main.1fd400d9.css.map",
+    "main.f448ce4c.js.map": "/static/js/main.f448ce4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.46bb851c.css",
-    "static/js/main.b2899df8.js"
+    "static/css/main.1fd400d9.css",
+    "static/js/main.f448ce4c.js"
   ]
 }
