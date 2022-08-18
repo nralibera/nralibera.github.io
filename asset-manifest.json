@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c51ec35a.css",
+    "main.css": "/static/css/main.564fc983.css",
     "main.js": "/static/js/main.65ab6a6f.js",
     "static/media/cat.jpg": "/static/media/cat.bddf12feb195f037e805.jpg",
     "static/media/monkey.jpg": "/static/media/monkey.49e16d884e385fd58a27.jpg",
@@ -19,11 +19,11 @@
     "static/media/challenge.png": "/static/media/challenge.416cbe98a73f39a1f2a4.png",
     "static/media/pandas_logo.png": "/static/media/pandas_logo.f0e05c189be6e09bc566.png",
     "index.html": "/index.html",
-    "main.c51ec35a.css.map": "/static/css/main.c51ec35a.css.map",
+    "main.564fc983.css.map": "/static/css/main.564fc983.css.map",
     "main.65ab6a6f.js.map": "/static/js/main.65ab6a6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c51ec35a.css",
+    "static/css/main.564fc983.css",
     "static/js/main.65ab6a6f.js"
   ]
 }
