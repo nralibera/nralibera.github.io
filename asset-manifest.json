@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b11ad120.css",
+    "main.css": "/static/css/main.5d42579a.css",
     "main.js": "/static/js/main.f06cb54a.js",
     "static/media/cat.jpg": "/static/media/cat.bddf12feb195f037e805.jpg",
     "static/media/monkey.jpg": "/static/media/monkey.49e16d884e385fd58a27.jpg",
-    "static/media/background.jpg": "/static/media/background.0207c97fd6728c16bffd.jpg",
+    "static/media/background.jpg": "/static/media/background.d9a6bd9a4b3aae2be910.jpg",
     "static/media/gan.png": "/static/media/gan.ee46b3bbf7232fec0fe8.png",
     "static/media/introdeeplearning.png": "/static/media/introdeeplearning.518eec34582810ce15a2.png",
     "static/media/Cocogoose Pro-trial.ttf": "/static/media/Cocogoose Pro-trial.fc4c5187ea318bde306b.ttf",
@@ -19,11 +19,11 @@
     "static/media/challenge.png": "/static/media/challenge.416cbe98a73f39a1f2a4.png",
     "static/media/pandas_logo.png": "/static/media/pandas_logo.f0e05c189be6e09bc566.png",
     "index.html": "/index.html",
-    "main.b11ad120.css.map": "/static/css/main.b11ad120.css.map",
+    "main.5d42579a.css.map": "/static/css/main.5d42579a.css.map",
     "main.f06cb54a.js.map": "/static/js/main.f06cb54a.js.map"
   },
   "entrypoints": [
-    "static/css/main.b11ad120.css",
+    "static/css/main.5d42579a.css",
     "static/js/main.f06cb54a.js"
   ]
 }
