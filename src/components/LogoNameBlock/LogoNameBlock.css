@@ -1,0 +1,42 @@
+
+.tool-container {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 0 5vh 0;
+    background-color: #002244;
+}
+
+.tool-title {
+    font-family: "Coolvetica";
+    font-size: 0.8rem;
+    letter-spacing: .1rem;
+}
+
+.tool-logoname {
+    display: flex;
+    width: 100%;
+    max-width: 700px;
+    justify-content: space-around;
+}
+
+.tool-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 0.8vw 0 0.8vw;
+    font-size: 0.8rem;
+}
+
+
+.tool-block > img {
+    max-width: 64px;
+    max-height: 64px;
+    min-width: 25px;
+    min-height: 25px;
+    width: 3vw;
+    padding: 0 1vw 1vw 1vw;
+    object-fit: cover;
+}

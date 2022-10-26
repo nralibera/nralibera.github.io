@@ -1,0 +1,49 @@
+.contentWork {
+    display: flex;
+    flex-direction: column;
+    margin: 2vh 12vw 0 12vw;
+    min-width:90%; 
+}
+
+.contentWork .title {
+    font-family: "Kaoly";
+    color: white;
+    font-size: 10vw;
+    padding-top: 10rem;
+}
+
+.contentWork .first-block {
+    background-color: rgba(13, 6, 0, 0.4);
+    border-radius: 2vw;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 5vh 4vw 2vh 4vw;
+    margin: 3vh 2vw 3vh 2vw;
+}
+
+    .contentWork .portrait-container {
+        float: left;
+        padding: 0 2vw 5vh 0;
+    }
+
+        .contentWork .portrait {
+            height: 43vh;
+            border-radius: 15%;
+        }
+
+
+
+.contentWork .second-block {
+    background-color: rgba(13, 6, 0, 0.2);
+    border-radius: 2vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2vh 2vw 2vh 2vw;
+    margin: 3vh 2vw 3vh 2vw;
+}
+
+        LogoNameBlock {
+            display: flex;
+            flex-direction: column;
+        }

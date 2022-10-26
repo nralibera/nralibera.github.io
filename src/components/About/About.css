@@ -1,0 +1,76 @@
+*{
+    box-sizing: border-box;
+}
+
+.contentAbout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.contentAbout .first-block {       
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: #002244;
+    text-align: justify;
+}
+
+.contentAbout .portrait-container {
+    flex: 1;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width: 40%;
+    min-width: 350px;
+    background: white;
+}
+.contentAbout .portrait {
+    height: 43vh;
+}
+
+.contentAbout .hello-container {
+    flex: 1;
+    padding: 5vh 4.5vh 5vh 4.5vh;
+}
+
+
+    .contentAbout .standard-block {
+        width:100%;
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        background-color: indianred;
+    }
+
+.contentAbout .block-title {
+    display: flex;
+    justify-content:center;
+}
+
+LogoNameBlock {
+    display: flex;
+    flex-direction: column;
+}
+.download-button {
+    width: 12em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    text-align: center;
+    font-family: "Coolvetica";
+    color: rgba(13, 6, 0, 1);
+    background-color: white;
+    box-shadow: 0rem 0.6rem 0.6rem -1rem rgba(255,255,255,0.3);
+    margin: 0.8vw;
+    padding: 0.8vw;
+    text-decoration:none;
+}
+
+    .download-button:hover {
+        color: white;
+        background-color: rgba(0, 0, 0, 1);
+        cursor: pointer;
+    }

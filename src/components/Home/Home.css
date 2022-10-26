@@ -1,0 +1,43 @@
+.contentHome{
+    display:flex;
+    justify-content:center;
+}
+
+.contentHome .title {
+    font-family: "Cocogoose";
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+
+    .contentHome .title-hello {
+        display: inline-block;
+        font-size: 10.7vw;
+        height: 1.1em;
+    }
+    .contentHome .title-welcome {
+        display: inline-block;
+        font-size: 4vw;
+        height: 1.3em;
+        animation-delay: 200ms;
+    }
+
+    .contentHome .title-hello, .title-welcome {
+        opacity: 0;
+        display: block;
+        animation: textIn 500ms forwards;
+    }
+
+@keyframes textIn{
+    from {
+        transform: translateY(100%);
+        opacity:1;
+    }
+    to {
+        transform: translateY(0%);
+        opacity:1;
+    }
+}

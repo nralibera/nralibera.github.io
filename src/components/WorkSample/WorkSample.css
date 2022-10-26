@@ -1,0 +1,44 @@
+
+.block {
+    background-color: rgba(13, 6, 0, 0.35);
+    border-radius: 2vw;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 5vh 4vw 2vh 4vw;
+    margin: 0 2vw 1vh 2vw;
+    overflow:hidden;
+}
+
+.image-container {
+   float: left;
+   padding: 0 2vw 5vh 0;
+}
+
+.image {
+    width: 85vw;
+    max-width: 800px;
+    border-radius: 5%;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15vw;
+    height: 15vh;
+    max-height: 30px;
+    max-width: 65px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: "Coolvetica";
+    color: rgba(13, 6, 0, 1);
+    background-color: white;
+    box-shadow: 0rem 0.6rem 6rem -1rem rgba(255,255,255,1);
+    margin: 0.8vw;
+}
+
+.button:hover {
+    color: white;
+    background-color: rgba(0, 0, 0, 1);
+    cursor: pointer;
+}
