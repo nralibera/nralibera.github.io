@@ -1,18 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.82d440c6.css",
-    "main.js": "/static/js/main.f06cb54a.js",
+    "main.js": "/static/js/main.ee22f862.js",
     "static/media/cat.jpg": "/static/media/cat.bddf12feb195f037e805.jpg",
     "static/media/monkey.jpg": "/static/media/monkey.49e16d884e385fd58a27.jpg",
     "static/media/background.jpg": "/static/media/background.d9a6bd9a4b3aae2be910.jpg",
     "static/media/gan.png": "/static/media/gan.ee46b3bbf7232fec0fe8.png",
+    "static/media/olympics.png": "/static/media/olympics.c4e4416b3822a7b2eb9c.png",
     "static/media/introdeeplearning.png": "/static/media/introdeeplearning.518eec34582810ce15a2.png",
     "static/media/Cocogoose Pro-trial.ttf": "/static/media/Cocogoose Pro-trial.fc4c5187ea318bde306b.ttf",
     "static/media/coolvetica-condensed.otf": "/static/media/coolvetica-condensed.5363e58a07461bacfd1a.otf",
     "static/media/coolvetica-italic.otf": "/static/media/coolvetica-italic.733776c8d6437461f923.otf",
     "static/media/coolvetica-regular.otf": "/static/media/coolvetica-regular.3d81d0e1fdbd5f69b232.otf",
+    "static/media/dassault.png": "/static/media/dassault.c83a2a43fe5be368bd05.png",
     "static/media/matplotlib_logo.png": "/static/media/matplotlib_logo.4535ae00a38134b505b8.png",
     "static/media/me.jpg": "/static/media/me.4e05aac23c67bcf7c2b7.jpg",
+    "static/media/natixis.png": "/static/media/natixis.b11fcbe937ca0d27c95b.png",
     "static/media/CV_august_2022_ralibera.pdf": "/static/media/CV_august_2022_ralibera.583c8eeab2ab90ff44b6.pdf",
     "static/media/liris.png": "/static/media/liris.48e49367e2ca0ff021ab.png",
     "static/media/accenture.png": "/static/media/accenture.e6d7136c7361c7f2f18b.png",
@@ -20,10 +23,10 @@
     "static/media/pandas_logo.png": "/static/media/pandas_logo.f0e05c189be6e09bc566.png",
     "index.html": "/index.html",
     "main.82d440c6.css.map": "/static/css/main.82d440c6.css.map",
-    "main.f06cb54a.js.map": "/static/js/main.f06cb54a.js.map"
+    "main.ee22f862.js.map": "/static/js/main.ee22f862.js.map"
   },
   "entrypoints": [
     "static/css/main.82d440c6.css",
-    "static/js/main.f06cb54a.js"
+    "static/js/main.ee22f862.js"
   ]
 }
