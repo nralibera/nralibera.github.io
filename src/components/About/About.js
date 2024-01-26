@@ -11,6 +11,18 @@ const bgColorOne = "#002244"
 const bgColorTwo = "#1D2951"
 
 const exp1 = {
+    "title": "Student research project - INL/LIRIS Labs",
+    "subject": "Artificial Intelligence for the diagnosis of integrated electronic circuits",
+    "date": "Sept 2021 - April 2022",
+    "place": "Lyon, France",
+    "descriptionList": ["Creation of a database from circuit simulation.",
+        "Implementation and assessment of ML models to detect faults",
+        "Use of clustering and a CNN hierarchical scheme"],
+    "logo": "liris"
+}
+
+
+const exp2 = {
     "title": "Research Internship - Accenture Labs",
     "subject": "Development of a de-identification guide framework for Data Privacy",
     "date": "May - Oct 2022",
@@ -22,18 +34,31 @@ const exp1 = {
     "logo": "accenture"
 }
 
-const exp2 = {
-    "title": "Student research project - INL/LIRIS Labs",
-    "subject": "Artificial Intelligence for the diagnosis of integrated electronic circuits",
-    "date": "Sept 2021 - April 2022",
-    "place": "Lyon, France",
-    "descriptionList": ["Creation of a database from circuit simulation.",
-        "Implementation and assessment of ML models to detect faults",
-        "Use of clustering and a CNN hierarchical scheme"],
-    "logo": "liris"
+
+const exp3 = {
+    "title": "Research Internship - Dassault Systèmes",
+    "subject": "R&D on Geological Fault Detection using Deep Learning",
+    "date": "Nov 2022 - May 2022",
+    "place": "Aix-en-Provence, France",
+    "descriptionList": ["State-of-the-art on the subject and related fields: U-net, image segmentation, highly unbalanced classes segmentation",
+        "Development of a synthetic data generator and data processing",
+        "Choice and test of the best technique taking into account the different constraints (implementation of loss function and adapted metrics)"],
+    "logo": "dassault"
 }
 
-const project1 = {
+
+const exp4 = {
+    "title": " Apprenticeship - Natixis CIB",
+    "subject": "Data developper : Improve data quality for Turing datalake",
+    "date": "Sept 2023 - August 2024",
+    "place": "Charenton-le-Pont, France",
+    "descriptionList": ["Test API received from system provider.",
+        "Participate in improvement of data quality."],
+    "logo": "natixis"
+}
+
+
+const project3 = {
     "title": "Can you predict the tide ?",
     "subject": "Challenge Data by ENS",
     "date": "Jan - April 2022",
@@ -57,7 +82,7 @@ const project2 = {
 }
 
 
-const project4 = {
+const project1 = {
     "title": "Voice conversion using Cycle GAN",
     "subject": "Side Project",
     "date": "Sept 2021 - Dec 2021",
@@ -68,6 +93,19 @@ const project4 = {
     </span>,
     "logo": "gan"
 }
+
+const project4 = {
+    "title": <span><a target="_blank" href="https://nralibera.tech/Olympics_data_viz" > Olympics Journey</a> </span>,
+    "subject": "Side Project",
+    "date": "January 2024",
+    "place": "Lyon, France",
+    "description": <span>
+        Build an interactive map which displays athletes journey through their paticipation in Olympic games (Summer and Winter) using D3 js. 
+        Source Code <a target="_blank" href="https://github.com/nralibera/Olympics_data_viz">here</a> .
+    </span>,
+    "logo": "olympics"
+}
+
 
 class About extends Component {
 
@@ -107,15 +145,18 @@ class About extends Component {
 
                 <div className="standard-block">
                     <div className="block-title"> <h1 > Experience </h1></div>
-                    <Experience element={exp1} place="left" bg={bgColorOne }/>
-                    <Experience element={exp2} place="right" bg={bgColorTwo} />
+                    <Experience element={exp4} place="left" bg={bgColorOne }/>
+                    <Experience element={exp3} place="right" bg={bgColorTwo} />
+                    <Experience element={exp2} place="left" bg={bgColorOne }/>
+                    <Experience element={exp1} place="right" bg={bgColorTwo} />
                 </div>
 
                 <div className="standard-block">
                     <div className="block-title"><h1 > Projects </h1></div>
-                    <Experience element={project1} place="left" bg={bgColorOne} />
+                    <Experience element={project4} place="right" bg={bgColorTwo} />
+                    <Experience element={project3} place="left" bg={bgColorOne} />
                     <Experience element={project2} place="right" bg={bgColorTwo} />
-                    <Experience element={project4} place="left" bg={bgColorTwo} />
+                    <Experience element={project1} place="left" bg={bgColorTwo} />
                 </div>
 
 
